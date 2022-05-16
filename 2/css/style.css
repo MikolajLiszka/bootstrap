@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+hr {
+  width: 200px;
+  margin: 25px auto;
+}
+a {
+  justify-content: center;
+  color: orange;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+}
+
+
+button::after {
+    display: none;
+    margin: 0px;
+}
